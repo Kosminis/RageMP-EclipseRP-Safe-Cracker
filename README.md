@@ -15,7 +15,7 @@
 pynput==1.7.6
 pywin32==303
 ```
-3. In EclipseRP go near a safe/door that you want to unlock, Open the keypad, run the script (Make sure when you close the keypad you can just press e to open it back up).
+3. In EclipseRP go near a safe/door that you want to unlock, Open the keypad, run the script (Make sure when you close the keypad it can be opened back up by just press e).
 
 by meaning "Open the keypad" I mean this (ignore the crosshair): ![image](https://i.imgur.com/SSvmRK7.png)
 
